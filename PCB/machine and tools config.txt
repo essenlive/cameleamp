@@ -1,0 +1,25 @@
+## Plots de fixation ##
+
+Point 1
+
+x = 0.800 --> en arrivant par le bas (un step au dessus de 0.799)
+y = 2.800 --> en arrivant par le bas (un step au dessus de 2.799)
+profondeur de perçage : 0.160 
+
+Point 2
+
+x = 6.850 (+ 6.050) --> en arrivant par le bas (un step au dessus de 6.849)
+y = 2.800 --> en arrivant par le bas (un step au dessus de 2.799)
+profondeur de perçage : 0.160 
+
+## Outils ##
+
+Diamètre de l'axe : les outils doivent avoir un axe de 1/8 pouce de diamètre (soit 3.15 mm)
+
+## Martyr ##
+
+La plaque martyr permet de positionner des plaques de cuivre de 18.5 x 15 cm maximum !
+Pour réusiner la plaque martyr, ouvrir le fichier Martyr.FlatPrj et enregistrez le fichier cnc. 
+La trajectoire a été calculée pour une fraise de 3 mm de diamètre et une profondeur de coupe de 0.5 mm 
+0.5 mm C'est beaucoup ! Ne pas hésitez à faire le Zéro du Z un peu au dessus de la plaque. 
+Attention : le zéro du X, Y doit être placé de sorte à ce que la fraise n'entre pas en contact avec les vis !
